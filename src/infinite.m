@@ -1,5 +1,5 @@
 clc; clearvars; close all
-addpath(fullfile(pwd, 'functions'));
+addpath(fullfile(pwd, '..', 'functions'));
 video = 'n';
 stack = 'n';
 linhas = 's';

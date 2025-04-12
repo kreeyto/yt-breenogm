@@ -1,5 +1,5 @@
 clc; clearvars; close all
-addpath(fullfile(pwd, 'functions'));
+addpath(fullfile(pwd, '..', 'functions'));
 video = 'n';
 [fig, circ, raio] = scenebgm('dark', '#3266a8', 800, 800, ...
     100, 1, 2.5, true, 'circle', true);
