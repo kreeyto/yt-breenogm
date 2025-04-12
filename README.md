@@ -18,7 +18,7 @@ Animations are exported via `VideoWriter` and sounds are generated using custom 
 
 ```
 📂 yt-breenogm/
-├── *.m                  # Main animation scripts, test scripts, utility, etc.
+├── src/                 # Main animation scripts, test scripts, utility, etc.
 ├── functions/           # Authorial utility functions (see list below)
 ├── media/               # Watermarks, sound samples, auxiliary assets
 └── never used/          # Experimental or discarded sketches
